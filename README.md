@@ -2,6 +2,8 @@
 
 ![이것이 MySQL이다.]()
 
+contributor : 
+
 ### 관련 링크
 
 - [이것이 MySQL이다 공식카페](https://cafe.naver.com/thisisMySQL)
