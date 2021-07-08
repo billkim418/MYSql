@@ -1,6 +1,6 @@
 # 이것이 MySQL이다 책을 스터디하고 정리 중입니다.
 
-![이것이 MySQL이다.]()
+![이것이 MySQL이다.](image/책 이미지.jpg)
 
 - [Wonkwon Lee](https://github.com/wonkwonlee), [Heewon Kwak](https://github.com/HeewonKwak), [TitusChoi](https://github.com/TitusChoi)
 ### 관련 링크
