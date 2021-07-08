@@ -2,8 +2,7 @@
 
 ![이것이 MySQL이다.]()
 
-contributor : 
-
+- [Wonkwon Lee](https://github.com/wonkwonlee), [Heewon Kwak](https://github.com/HeewonKwak), [TitusChoi](https://github.com/TitusChoi)
 ### 관련 링크
 
 - [이것이 MySQL이다 공식카페](https://cafe.naver.com/thisisMySQL)
